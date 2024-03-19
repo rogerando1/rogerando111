@@ -6,7 +6,7 @@ p{
     width: 100px
     height: 100px
 }
-
+rogerando1
 
 
 </style>
@@ -27,6 +27,18 @@ p{
     <img src = 'https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' width="100" height="40">
     <img src = 'https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white 'width="105" height="40">
     <img src = 'https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white'width="110" height="40">
+ </div>
+
+ <div>
+<picture>
+
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=rogerando1&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: )"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rogerando1&show_icons=true" />
+</picture>
+
  </div>
     
 
