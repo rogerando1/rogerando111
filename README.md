@@ -1,18 +1,3 @@
-<style> 
-p{
-    color: red;
-    font-size:  80px;
-    font-family: sans-serif;
-    width: 100px
-    height: 100px
-}
-
-h1{
-    font-size: 20px;
-    color: ;
-}
-
-</style>
 
 
 <p> Hello </p>
